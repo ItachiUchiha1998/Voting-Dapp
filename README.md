@@ -11,7 +11,7 @@ A simple decentralised application to allow secure and anonymous voting of candi
 5) Now open another terminal and input `node server`
     this will return the address at which your blockchain has been deployed
 6) Copy the address returned and paste in `index.js` file
-    at `contractInstance = VotingContract.at('BLOCKCHAIN_ADDRESS');`
+    at <br>`contractInstance = VotingContract.at('BLOCKCHAIN_ADDRESS');`
 
 7) Now open `index.html` to use the voting app
 

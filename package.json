@@ -1,0 +1,17 @@
+{
+  "name": "votingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "ganache-cli": "^6.1.0",
+    "solc": "^0.4.24",
+    "web3": "^0.20.1"
+  }
+}
